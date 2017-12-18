@@ -1,5 +1,4 @@
 ![senator Palpatine](vendor/images/do-it.gif)
-# Do It
 This app aims to help you save, order and prioritize your `tasks`.
 The app is partly inspired by the [answer](https://www.quora.com/How-do-I-get-motivated-every-single-day/answer/John-Michael-Domingo?share=1b585c6e&srid=Z4Cc) on Quora.
 
@@ -12,14 +11,14 @@ The app is partly inspired by the [answer](https://www.quora.com/How-do-I-get-mo
 * `Babel` to transpile es6 code into browser compatible code
 
 # TODO
-- [] User registration
-- [] Add task, list, collections
-- [] Task or collections duration
-- [] Completion rate - some fancy graph to show progress
-- [] Reminder - for task bound to particular time
-- [] Task ordering, prioritization
-- [] Choose frontend framework for styles
-- [] Different ways of searching tasks
+- [ ] User registration
+- [ ] Add task, list, collections
+- [ ] Task or collections duration
+- [ ] Completion rate - some fancy graph to show progress
+- [ ] Reminder - for task bound to particular time
+- [ ] Task ordering, prioritization
+- [ ] Choose frontend framework for styles
+- [ ] Different ways of searching tasks
 
 # Components
 ## Collection
