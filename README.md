@@ -10,6 +10,7 @@ The app is partly inspired by the [answer](https://www.quora.com/How-do-I-get-mo
 * `Sass` for styles
 * `jQuery` to fasten coding on js
 * `Babel` to transpile es6 code into browser compatible code
+* `Bourbon` sass mixins library
 
 # TODO
 - [ ] User registration
