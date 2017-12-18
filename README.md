@@ -1,4 +1,5 @@
 ![senator Palpatine](vendor/images/do-it.gif)
+
 This app aims to help you save, order and prioritize your `tasks`.
 The app is partly inspired by the [answer](https://www.quora.com/How-do-I-get-motivated-every-single-day/answer/John-Michael-Domingo?share=1b585c6e&srid=Z4Cc) on Quora.
 
