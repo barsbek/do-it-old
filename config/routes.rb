@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :collections
   resources :users
   get :login, to: 'users#login'
   post :login, to: 'users#authenticate'
