@@ -6,4 +6,11 @@ class ActiveSupport::TestCase
   fixtures :all
 
   # Add more helper methods to be used by all tests here...
+  def new_user_params
+    { name: "new_name",
+      email: "new@user.email",
+      password: "new_password",
+      password_confirmation: "new_password"
+    }
+  end
 end
